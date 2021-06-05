@@ -74,4 +74,9 @@ You can put the bepswitch.bat file anywhere you want to run it.
 
 Double click bepswitch.bat and type 1 then press return/enter for Vanilla, type 2 for Modded!
 
+# Credits
 
+The idea for this was from here:
+https://steamcommunity.com/app/892970/discussions/0/3069740625181087689/?l=portuguese
+and sample code from here:
+https://stackoverflow.com/questions/4051294/how-to-overwrite-existing-files-in-batch
