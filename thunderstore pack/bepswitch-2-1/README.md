@@ -1,15 +1,6 @@
 # Bepswitch Readme
 
-## Changelogs
-
-### 2.1
-
-- Added error message for incorrect keypress
-- Added auto-exit
-
-### 2.0
-
-***New plug and play version!***  
+**2.0** ***New plug and play version!***  
 
 **Note for Thunderstore users:** ***Manual install strongly advised! I have no idea if this works with a mod manager!***
 
