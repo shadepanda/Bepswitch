@@ -1,43 +1,36 @@
-# Bepswitch Readme
+[h1]Bepswitch Readme[/h1]
+[b]2.0[/b] [b][i]New Plug and play version![/i][/b]  
 
-**2.0** ***New Plug and play version!***  
-
-## What is Bepswitch?
-
+[h2]What is Bepswitch?[/h2]
 This is a batch (.bat) file that switches Bepinex on and off so you can play either vanilla or modded easily. It is useful if you are in a couple of different servers - some with mods and some that don't allow mods.  
 
-## How do I install it?
-
+[h2]How do I install it?[/h2]
 Download the mod and put bepswitch.bat in your Valheim folder.  
 Depending on your install, this should look like:
 
-                D:\Steam\steamapps\common\Valheim
+               [code] D:\Steam\steamapps\common\Valheim [/code]
 
 The contents of your folder should look something like this:
 
-![Screenshot of Valheim folder](valheim-folder.jpg)
+![url=valheim-folder.jpg]Screenshot of Valheim folder[/url]
 
-## How do I use it?
+[h2]How do I use it?[/h2]
+Just double click on [code single]bepswitch.bat[/code] and you're good to go :)
 
-Just double click on `bepswitch.bat` and you're good to go :)
+![url=screenshot-batch.jpg]Screenshot of batch file running[/url]
 
-![Screenshot of batch file running](screenshot-batch.jpg)
-
-## What does it do?
-
+[h2]What does it do?[/h2]
 This new version works by editing the text inside the doorstop_config.ini file.
-It switches between enabled=true and `enabled=false` to `enable/disable` Bepinex from loading.  
+It switches between enabled=true and [code single]enabled=false[/code] to [code single]enable/disable[/code] Bepinex from loading.  
 
-*I suggest creating a shortcut of the file and putting it in a more easy to find location.*
+[i]I suggest creating a shortcut of the file and putting it in a more easy to find location.[/i]
 
-## Why did I make it?
-
+[h2]Why did I make it?[/h2]
 I made this because I prefer to manage mods manually rather than using a manager, and did not want to have to edit files each time I wanted to play vanilla (I'm lazy).  
 
 I also like learning new code-ish stuff, and figuring this out was fun :)
 
-# Credits
-
+[h1]Credits[/h1]
 The idea for this was from here:
 https://steamcommunity.com/app/892970/discussions/0/3069740625181087689/?l=portuguese
 
