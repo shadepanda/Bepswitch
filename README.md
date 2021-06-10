@@ -26,7 +26,7 @@ Just double click on `bepswitch.bat` and you're good to go :)
 ## What does it do?
 
 This new version works by editing the text inside the doorstop_config.ini file.
-It switches between enabled=true and `enabled=false` to `enable/disable` Bepinex from loading.  
+It switches between `enabled=true` and `enabled=false` to enable/disable Bepinex from loading.  
 
 *I suggest creating a shortcut of the file and putting it in a more easy to find location.*
 
