@@ -1,6 +1,6 @@
 # Bepswitch Readme
 
-**2.0** ***New Plug and play version!***  
+**2.0** ***New plug and play version!***  
 
 ## What is Bepswitch?
 
